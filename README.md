@@ -15,7 +15,7 @@ Yeoman generator for building micro services in ASP.NET WebAPI 2
 ## Folder Structure
 
 > The following folder structure will be generated
-> ```
+```
  - {NameSpace}.{AppName}.Api
  - {NameSpace}.{AppName}.Tests.Acceptance
  - {NameSpace}.{AppName}.Tests.Integration
